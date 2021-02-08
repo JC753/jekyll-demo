@@ -15,10 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Chocolate
-- Sweets
-- Hamburgers
-
+<ul>
+  <li style='font: 40px'>Chocolate</li>
+  <li>Sweets</li>
+  <li>Hamburgers</li>
+</ul>
 1. Green
 2. Amber
 3. Yellow
