@@ -15,11 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Chocolate
+- Sweets
+- Hamburgers
 
-1. Numbered
-2. List
+1. Green
+2. Amber
+3. Yellow
 
 **Bold** and _Italic_ and `Code` text
 
